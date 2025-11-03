@@ -1,0 +1,6 @@
+syntax errors - very high
+spelling - high
+spacing - low priority
+variable names - low priority
+redundancy - medium
+repitition - high
